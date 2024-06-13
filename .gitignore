@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Pygame specific
+*.bmp
+*.gif
+*.png
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
