@@ -44,7 +44,7 @@ This project was developed as part of the Code in Place 2024 course, a free, hum
 - `README.md`: This file.
 - `LICENSE`: License for the project.
 - `.gitignore`: Specifies files and directories to ignore in the repository.
-- `requirements.txt`: List of dependencies (optional).
+- `requirements.txt`: List of dependencies.
 
 ## Screenshots
 ![Game Start Screen](images/screenshot1.png)
